@@ -2,7 +2,7 @@
 
 ## Description globale
 
-Ce script PowerShell est conçu comme un outil polyvalent pour l'administration et la configuration de serveurs Windows dans un environnement virtualisé ou physique. Il est orienté vers la mise en place et la gestion de services critiques tels que **Active Directory (AD), DNS, DHCP**, ainsi que la création et la gestion des machines virtuelles (VM). 
+Ce script PowerShell est conçu comme un outil polyvalent pour l'administration et la configuration de serveurs Windows dans un environnement virtualisé ou physique. Il est orienté vers la mise en place et la gestion de services critiques tels que **Active Directory (AD), DNS, DHCP**, ainsi que la création et la gestion des machines virtuelles. 
 
 ---
 
@@ -31,7 +31,7 @@ Ce script PowerShell est conçu comme un outil polyvalent pour l'administration 
 
 ---
 
-### 4. **Automatisation des tâches critiques**
+### 4. **AD Corporate**
 - Gestion et partitionnement des disques pour des rôles spécifiques (BDD, LOGS, SYSVOL).
 - Changement de nom d’hôte et redémarrage automatisé après certaines configurations.
 - Ajout et configuration d'un serveur AD Corporate.
@@ -41,17 +41,6 @@ Ce script PowerShell est conçu comme un outil polyvalent pour l'administration 
 ### 5. **Interface utilisateur interactive**
 - Un menu simple permettant de naviguer entre les fonctionnalités.
 - Collecte des paramètres directement auprès de l'utilisateur via des invites dynamiques.
-
----
-
-## Cas d'utilisation
-
-- **Formation et apprentissage :**
-  - Idéal pour les étudiants en administration réseau, couvrant des concepts tels que la virtualisation, la configuration réseau et l'installation de services essentiels.
-- **Déploiement rapide :**
-  - Automatisation de tâches répétitives pour accélérer le déploiement d'environnements de test ou de production.
-- **Administration simplifiée :**
-  - Centralise plusieurs outils en un seul script avec une interface intuitive.
 
 ---
 
