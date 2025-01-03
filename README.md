@@ -2,7 +2,7 @@
 
 ## Description
 
-Ce script PowerShell est conçu comme un outil polyvalent pour l'administration et la configuration de serveurs Windows dans un environnement virtualisé ou physique. Il est orienté vers la mise en place et la gestion de services critiques tels que **Active Directory (AD), DNS, DHCP**, ainsi que la création et la gestion des machines virtuelles. 
+Ce script PowerShell est conçu comme un outil polyvalent pour l'administration et la configuration de serveurs Windows dans un environnement virtualisé. Il est orienté vers la mise en place et la gestion de services tels que **Active Directory (AD), DNS, DHCP**, ainsi que la création et la gestion des machines virtuelles. 
 
 ---
 
